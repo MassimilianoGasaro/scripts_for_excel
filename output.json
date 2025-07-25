@@ -1,0 +1,1682 @@
+{
+  "transactions": [
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "PIJTE L PIASI DUSINO SAN MI IT Carta N. ***** 478 Data operazione 19/07/25",
+      "Importo": 95.0,
+      "Tipo": "Altre Uscite",
+      "Data": "22/07/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1043577525710/PAYPAL",
+      "Importo": 26.89,
+      "Tipo": "Altre Uscite",
+      "Data": "21/07/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Estero",
+      "Descrizione": "Ord: PayPal Europe S.a.r.l. et Cie S.C.A Ben: Massimiliano Gasaro Dt-ord: 14/07/ 2025 Banca Ord: PayPal (Europe) S.a r.l. Info-Cli: YYW1043495992000/PAYPAL",
+      "Importo": 17.0,
+      "Tipo": "Altre Uscite",
+      "Data": "14/07/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "BAR TRATTORIA DECURTIS ANDORA IT Carta N. ***** 478 Data operazione 12/07/25",
+      "Importo": 37.5,
+      "Tipo": "Altre Uscite",
+      "Data": "14/07/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "SUMUP *CALCI IN CULO ACQUI TERME IT Carta N. ***** 478 Data operazione 12/07/25",
+      "Importo": 10.0,
+      "Tipo": "Altre Uscite",
+      "Data": "14/07/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal (Europe) S.a r.l. et Cie, S.C.A. Addebito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1043417320290 PAYPAL",
+      "Importo": 31.0,
+      "Tipo": "Altre Uscite",
+      "Data": "11/07/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "CRF EXP TOR 4504 TORINO IT Carta N. ***** 478 Data operazione 07/07/25",
+      "Importo": 2.98,
+      "Tipo": "Altre Uscite",
+      "Data": "09/07/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1043288412716/PAYPAL",
+      "Importo": 1.99,
+      "Tipo": "Altre Uscite",
+      "Data": "07/07/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1043288416590/PAYPAL",
+      "Importo": 5.99,
+      "Tipo": "Altre Uscite",
+      "Data": "07/07/2025"
+    },
+    {
+      "Titolo": "Sconto Canone Mensile",
+      "Descrizione": "Sconto Canone Mensile Giugno 2025",
+      "Importo": 1.75,
+      "Tipo": "Altre Uscite",
+      "Data": "07/07/2025"
+    },
+    {
+      "Titolo": "Canone Mensile Conto",
+      "Descrizione": "Canone Mensile Conto Giugno 2025",
+      "Importo": 1.75,
+      "Tipo": "Altre Uscite",
+      "Data": "07/07/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ord: GUMIERO SILVIA GASARO OTTAVIO Ben: MASSIMILIANO GASARO Dt-ord: 03/07/2025 Banca Ord: INTESA SANPAOLO SPA Info-Cli: Rimborso spese al 30 giugno",
+      "Importo": 645.0,
+      "Tipo": "Altre Uscite",
+      "Data": "03/07/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "American Express Italia srl Addebito SDD fattura a Vs carico da IT07AEX0000014445281000 Mand E2025056 066664989 Per 51001",
+      "Importo": 4683.49,
+      "Tipo": "Altre Uscite",
+      "Data": "02/07/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "PV0446 MONCALIERI IT Carta N. ***** 478 Data operazione 30/06/25",
+      "Importo": 17.93,
+      "Tipo": "Altre Uscite",
+      "Data": "02/07/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "AUTOST DIREZIONE NORD/ CHERA B IT Carta N. ***** 478 Data operazione 28/06/25",
+      "Importo": 1.5,
+      "Tipo": "Altre Uscite",
+      "Data": "02/07/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "MOUZAKIS SHOPPING CENT ZAKYNTHOS GR Carta N. ***** 478 Data operazione 27/06/25",
+      "Importo": 14.8,
+      "Tipo": "Altre Uscite",
+      "Data": "02/07/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1043164434413/PAYPAL",
+      "Importo": 0.49,
+      "Tipo": "Altre Uscite",
+      "Data": "01/07/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1043162439771/PAYPAL",
+      "Importo": 2.35,
+      "Tipo": "Altre Uscite",
+      "Data": "01/07/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1043150209903/PAYPAL",
+      "Importo": 2.99,
+      "Tipo": "Altre Uscite",
+      "Data": "01/07/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "Wind Tre S.p.A. Addebito SDD fattura a V s carico da IT620010000002517580920 Mand P1118928 916 Per",
+      "Importo": 11.99,
+      "Tipo": "Altre Uscite",
+      "Data": "01/07/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "RAPPORTI INTERNI SPORTELLO 00777 Addebit o SDD fattura a Vs carico da IT110040000000799960158 Mand BCDL7901 02500089174978 Per INTESA SANPAOLO",
+      "Importo": 77.61,
+      "Tipo": "Altre Uscite",
+      "Data": "30/06/2025"
+    },
+    {
+      "Titolo": "Stipendio",
+      "Descrizione": "Ord: ELISA INDUSTRIQ ITALY S.P.A. Ben: G ASARO MASSIMILIANO Dt-ord: 30/06/2025 Ba nca Ord: CREDIT AGRICOLE ITALIA SP Info- Cli: GIUGNO 2025",
+      "Importo": 2527.0,
+      "Tipo": "Stipendio",
+      "Data": "30/06/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "ANAKOGLOU AIKATERINH ZAKYNTHOS GR Carta N. ***** 478 Data operazione 27/06/25",
+      "Importo": 11.5,
+      "Tipo": "Altre Uscite",
+      "Data": "30/06/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "AFOI NIK XENOY KAI S ZAKYNTHOS GR Carta N. ***** 478 Data operazione 27/06/25",
+      "Importo": 40.75,
+      "Tipo": "Altre Uscite",
+      "Data": "30/06/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "PORTO AZZURO ZAKYNTHOS GR Carta N. ***** 478 Data operazione 26/06/25",
+      "Importo": 8.0,
+      "Tipo": "Altre Uscite",
+      "Data": "30/06/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "PORTO ATZOURO MPITS MP ZAKYNTHOS GR Carta N. ***** 478 Data operazione 26/06/25",
+      "Importo": 40.0,
+      "Tipo": "Altre Uscite",
+      "Data": "30/06/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1043107967473/PAYPAL",
+      "Importo": 13.99,
+      "Tipo": "Altre Uscite",
+      "Data": "27/06/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "TAVERNA PORTO LIMNIO ZAKYNTHOS GR Carta N. ***** 478 Data operazione 25/06/25",
+      "Importo": 59.0,
+      "Tipo": "Altre Uscite",
+      "Data": "27/06/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "THEODOSIS STYLIANOS ZAKYNTHOS GR Carta N. ***** 478 Data operazione 24/06/25",
+      "Importo": 22.0,
+      "Tipo": "Altre Uscite",
+      "Data": "26/06/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1043060170387/PAYPAL",
+      "Importo": 4.99,
+      "Tipo": "Altre Uscite",
+      "Data": "25/06/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ben: Giancarlo Guarneri Ins: 25/06/2025 20:49:05 Da: PHONE/VOICE P. Iban: IT28H0 329601601000064515372 TransID: 250624290 2297378480320030220IT Cau: regalo matrim onio",
+      "Importo": 100.0,
+      "Tipo": "Altre Uscite",
+      "Data": "25/06/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1042845715790/PAYPAL",
+      "Importo": 449.99,
+      "Tipo": "Altre Uscite",
+      "Data": "17/06/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "E1750014831134QAZ0 MOO MILANO IT Carta N. ***** 478 Data operazione 15/06/25",
+      "Importo": 21.5,
+      "Tipo": "Altre Uscite",
+      "Data": "17/06/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Estero",
+      "Descrizione": "Ord: Satispay Europe S.A. Ben: Massimili ano Gasaro Dt-ord: 16/06/2025 Banca Ord: SATISPAY EUROPE SA Info-Cli: Accredito dall'app Satispay",
+      "Importo": 1000.0,
+      "Tipo": "Altre Uscite",
+      "Data": "16/06/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "AZ OSP. CITTA DELLA S TORINO IT Carta N. ***** 478 Data operazione 13/06/25",
+      "Importo": 12.9,
+      "Tipo": "Altre Uscite",
+      "Data": "16/06/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ord: CONDEMI LUCA Ben: Massimiliano Gasa ro Dt-ord: 13/06/2025 Banca Ord: UNICRED IT SPA Info-Cli: Regalo Edo e Case - Sis ti e Mati",
+      "Importo": 20.0,
+      "Tipo": "Altre Uscite",
+      "Data": "13/06/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Estero",
+      "Descrizione": "Ord: PayPal Europe S.a.r.l. et Cie S.C.A Ben: Massimiliano Gasaro Dt-ord: 13/06/ 2025 Banca Ord: PayPal (Europe) S.a r.l. Info-Cli: YYW1042824742422/PAYPAL",
+      "Importo": 9.0,
+      "Tipo": "Altre Uscite",
+      "Data": "13/06/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Estero",
+      "Descrizione": "Ord: PayPal Europe S.a.r.l. et Cie S.C.A Ben: Massimiliano Gasaro Dt-ord: 13/06/ 2025 Banca Ord: PayPal (Europe) S.a r.l. Info-Cli: YYW1042841373803/PAYPAL",
+      "Importo": 60.0,
+      "Tipo": "Altre Uscite",
+      "Data": "13/06/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ord: UNIVERSITA DI TORINO Ben: GASARO M ASSIMILIANO Dt-ord: 12/06/2025 Banca Ord : INTESA SANPAOLO SPA Info-Cli: MAND. N. 43318- 46 Rimborso Tasse - 9787735 - 07 /05/2025 - Rif. Esse3: - 2025",
+      "Importo": 150.2,
+      "Tipo": "Altre Uscite",
+      "Data": "12/06/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ord: TOZZOLI GIULIA Ben: MASSIMILIANO GA SARO Dt-ord: 12/06/2025 Banca Ord: INTES A SANPAOLO SPA Info-Cli: regalo edo e ca se",
+      "Importo": 30.0,
+      "Tipo": "Altre Uscite",
+      "Data": "12/06/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal (Europe) S.a r.l. et Cie, S.C.A. Addebito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1042768593274 PAYPAL",
+      "Importo": 31.0,
+      "Tipo": "Altre Uscite",
+      "Data": "11/06/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ord: VAILATI LORENZO, PANZERA SARA Ben: Massimiliano Gasaro Dt-ord: 11/06/2025 B anca Ord: CREDICOOP CERNUSCO SUL NA Info -Cli: Regalo Edo (Lorenzo e Sara)",
+      "Importo": 30.0,
+      "Tipo": "Altre Uscite",
+      "Data": "11/06/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ord: UNIVERSITA DI TORINO Ben: GASARO M ASSIMILIANO Dt-ord: 11/06/2025 Banca Ord : INTESA SANPAOLO SPA Info-Cli: MAND. N. 42247- 24 Rimborso Tasse - 9783408 - 07 /05/2025 - Rif. Esse3: - 2025",
+      "Importo": 214.96,
+      "Tipo": "Altre Uscite",
+      "Data": "11/06/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "GAS STATION PECETTO T. PECETTO TORIN IT Carta N. ***** 478 Data operazione 09/06/25",
+      "Importo": 14.2,
+      "Tipo": "Altre Uscite",
+      "Data": "11/06/2025"
+    },
+    {
+      "Titolo": "Bonifico Istantaneo",
+      "Descrizione": "Beneficiario: Massimiliano Gasaro IBAN: IT15B0306967684510377182429 Data Inserim ento: 10/06/2025 08:08:31 Canale: PHONE/ VOICE P. Causale: ricarica TRN: 25061028 88179133480320000000IT",
+      "Importo": 15.0,
+      "Tipo": "Altre Uscite",
+      "Data": "10/06/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "VICTOR 37 S.R.L. UNIPE CHIERI IT Carta N. ***** 478 Data operazione 07/06/25",
+      "Importo": 3.5,
+      "Tipo": "Altre Uscite",
+      "Data": "10/06/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1042679282122/PAYPAL",
+      "Importo": 1.99,
+      "Tipo": "Altre Uscite",
+      "Data": "09/06/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ord: GIORDANETTO ALESSANDRO Ben: Massimi liano Gasaro Dt-ord: 09/06/2025 Banca Or d: BANCA D'ALBA CREDITO COOP Info-Cli: R egalo Edo 20 Case 15",
+      "Importo": 35.0,
+      "Tipo": "Altre Uscite",
+      "Data": "09/06/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "WEMA SRL TORINO IT Carta N. ***** 478 Data operazione 06/06/25",
+      "Importo": 19.7,
+      "Tipo": "Altre Uscite",
+      "Data": "09/06/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "J MEDICAL SRL TORINO IT Carta N. ***** 478 Data operazione 05/06/25",
+      "Importo": 41.0,
+      "Tipo": "Altre Uscite",
+      "Data": "09/06/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1042636419791/PAYPAL",
+      "Importo": 5.99,
+      "Tipo": "Altre Uscite",
+      "Data": "05/06/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1042636412097/PAYPAL",
+      "Importo": 5.99,
+      "Tipo": "Altre Uscite",
+      "Data": "05/06/2025"
+    },
+    {
+      "Titolo": "Bonifico Istantaneo",
+      "Descrizione": "Ordinante: TONATTO ANDREA Beneficiario: MASSIMILIANO GASARO Banca Ordinante: CRE DIT AGRICOLE ITALIA SP Data accredito: 0 5/06/2025 Causale: REGALO GIOVA EDO E CA SE",
+      "Importo": 90.0,
+      "Tipo": "Altre Uscite",
+      "Data": "05/06/2025"
+    },
+    {
+      "Titolo": "Sconto Canone Mensile",
+      "Descrizione": "Sconto Canone Mensile Maggio 2025",
+      "Importo": 1.75,
+      "Tipo": "Altre Uscite",
+      "Data": "05/06/2025"
+    },
+    {
+      "Titolo": "Canone Mensile Conto",
+      "Descrizione": "Canone Mensile Conto Maggio 2025",
+      "Importo": 1.75,
+      "Tipo": "Altre Uscite",
+      "Data": "05/06/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "American Express Italia srl Addebito SDD fattura a Vs carico da IT07AEX0000014445281000 Mand E2025056 066664989 Per 51001",
+      "Importo": 1827.03,
+      "Tipo": "Altre Uscite",
+      "Data": "04/06/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1042563556668/PAYPAL",
+      "Importo": 29.99,
+      "Tipo": "Altre Uscite",
+      "Data": "03/06/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "JustEatItaly MILANO IT Carta N. ***** 478 Data operazione 30/05/25",
+      "Importo": 56.3,
+      "Tipo": "Altre Uscite",
+      "Data": "03/06/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "WIND TRE SPA Addebito SDD fattura a Vs c arico da IT620010000002517580920 Mand P1118928 916 Per",
+      "Importo": 11.99,
+      "Tipo": "Altre Uscite",
+      "Data": "02/06/2025"
+    },
+    {
+      "Titolo": "Stipendio",
+      "Descrizione": "Ord: ELISA INDUSTRIQ ITALY S.P.A. Ben: G ASARO MASSIMILIANO Dt-ord: 30/05/2025 Ba nca Ord: CREDIT AGRICOLE ITALIA SP Info- Cli: MAGGIO 2025",
+      "Importo": 1921.0,
+      "Tipo": "Stipendio",
+      "Data": "30/05/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1042480231154/PAYPAL",
+      "Importo": 2.99,
+      "Tipo": "Altre Uscite",
+      "Data": "29/05/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ord: GUMIERO SILVIA GASARO OTTAVIO Ben: MASSIMILIANO GASARO Dt-ord: 29/05/2025 Banca Ord: INTESA SANPAOLO SPA Info-Cli: Zante",
+      "Importo": 842.48,
+      "Tipo": "Altre Uscite",
+      "Data": "29/05/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ord: GASARO GIORGIA Ben: MASSIMILIANO GA SARO Dt-ord: 29/05/2025 Banca Ord: INTES A SANPAOLO SPA Info-Cli:",
+      "Importo": 451.2,
+      "Tipo": "Altre Uscite",
+      "Data": "29/05/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "RAPPORTI INTERNI SPORTELLO 00777 Addebit o SDD fattura a Vs carico da IT110040000000799960158 Mand BCDL7901 02500089174978 Per INTESA SANPAOLO",
+      "Importo": 48.0,
+      "Tipo": "Altre Uscite",
+      "Data": "28/05/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ord: GUMIERO SILVIA GASARO OTTAVIO Ben: MASSIMILIANO GASARO Dt-ord: 28/05/2025 Banca Ord: INTESA SANPAOLO SPA Info-Cli: Rimborso spese al 26 maggio",
+      "Importo": 774.0,
+      "Tipo": "Altre Uscite",
+      "Data": "28/05/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1042440899985/PAYPAL",
+      "Importo": 13.99,
+      "Tipo": "Altre Uscite",
+      "Data": "27/05/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "SUMUP *GELATERIA FAVA CHIERI IT Carta N. ***** 478 Data operazione 25/05/25",
+      "Importo": 2.5,
+      "Tipo": "Altre Uscite",
+      "Data": "27/05/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "PARCHEGGIO PIAZZA BODO TORINO IT Carta N. ***** 478 Data operazione 24/05/25",
+      "Importo": 7.7,
+      "Tipo": "Altre Uscite",
+      "Data": "27/05/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "LABORATORIO MEDICO CES CHIERI IT Carta N. ***** 478 Data operazione 23/05/25",
+      "Importo": 22.15,
+      "Tipo": "Altre Uscite",
+      "Data": "26/05/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "ESSO TROFARELLO IT Carta N. ***** 478 Data operazione 21/05/25",
+      "Importo": 16.35,
+      "Tipo": "Altre Uscite",
+      "Data": "23/05/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ben: Aurora Curatolo Ins: 20/05/2025 13: 50:56 Da: PHONE/VOICE P. Iban: IT14E0200 820000000104351131 TransID: 250520286869 3215480320030220IT Cau: messico",
+      "Importo": 542.5,
+      "Tipo": "Altre Uscite",
+      "Data": "20/05/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Estero",
+      "Descrizione": "Ord: PayPal Europe S.a.r.l. et Cie S.C.A Ben: Massimiliano Gasaro Dt-ord: 19/05/ 2025 Banca Ord: PayPal (Europe) S.a r.l. Info-Cli: YYW1042290249839/PAYPAL",
+      "Importo": 142.0,
+      "Tipo": "Altre Uscite",
+      "Data": "19/05/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "PANIFICIO ROTONDO FINALE LIGURE IT Carta N. ***** 478 Data operazione 17/05/25",
+      "Importo": 12.0,
+      "Tipo": "Altre Uscite",
+      "Data": "19/05/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "HAIR CARE SALON SRL TORINO IT Carta N. ***** 478 Data operazione 14/05/25",
+      "Importo": 20.0,
+      "Tipo": "Altre Uscite",
+      "Data": "16/05/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "PARCHEGGIO PIAZZA BODO TORINO IT Carta N. ***** 478 Data operazione 11/05/25",
+      "Importo": 14.3,
+      "Tipo": "Altre Uscite",
+      "Data": "13/05/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "MUSI24 SRL TORINO IT Carta N. ***** 478 Data operazione 10/05/25",
+      "Importo": 50.8,
+      "Tipo": "Altre Uscite",
+      "Data": "12/05/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "POLIAMBULATORIO MEDICO CHIERI IT Carta N. ***** 478 Data operazione 07/05/25",
+      "Importo": 65.0,
+      "Tipo": "Altre Uscite",
+      "Data": "09/05/2025"
+    },
+    {
+      "Titolo": "Conferimento Fondo Pensione",
+      "Descrizione": "AMUNDI Rata 1000289324 Dec 08.05.2025",
+      "Importo": 150.0,
+      "Tipo": "Altre Uscite",
+      "Data": "08/05/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ord: GUMIERO GIOVANNI LORENZIN MARIA Be n: MASSIMILIANO GASARO Dt-ord: 08/05/202 5 Banca Ord: INTESA SANPAOLO SPA Info-Cl i: Saldo spese mamma",
+      "Importo": 188.0,
+      "Tipo": "Altre Uscite",
+      "Data": "08/05/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Estero",
+      "Descrizione": "Ord: MARIO PELLEGRIN Ben: Massimiliano G asaro Dt-ord: 07/05/2025 Banca Ord: Barc lays Bank UK Plc Info-Cli: Pasquetta",
+      "Importo": 77.67,
+      "Tipo": "Altre Uscite",
+      "Data": "07/05/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1041968197525/PAYPAL",
+      "Importo": 5.99,
+      "Tipo": "Altre Uscite",
+      "Data": "06/05/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1041968202119/PAYPAL",
+      "Importo": 5.99,
+      "Tipo": "Altre Uscite",
+      "Data": "06/05/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "American Express Italia srl Addebito SDD fattura a Vs carico da IT07AEX0000014445281000 Mand E2025056 066664989 Per 51001",
+      "Importo": 1077.68,
+      "Tipo": "Altre Uscite",
+      "Data": "06/05/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "AL PERO IMBARCO SUL TORINO IT Carta N. ***** 478 Data operazione 01/05/25",
+      "Importo": 10.0,
+      "Tipo": "Altre Uscite",
+      "Data": "05/05/2025"
+    },
+    {
+      "Titolo": "Sconto Canone Mensile",
+      "Descrizione": "Sconto Canone Mensile Aprile 2025",
+      "Importo": 1.75,
+      "Tipo": "Altre Uscite",
+      "Data": "05/05/2025"
+    },
+    {
+      "Titolo": "Canone Mensile Conto",
+      "Descrizione": "Canone Mensile Conto Aprile 2025",
+      "Importo": 1.75,
+      "Tipo": "Altre Uscite",
+      "Data": "05/05/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "Wind Tre S.p.A. Addebito SDD fattura a V s carico da IT620010000002517580920 Mand P1118928 916 Per",
+      "Importo": 11.99,
+      "Tipo": "Altre Uscite",
+      "Data": "02/05/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "ESSO TROFARELLO IT Carta N. ***** 478 Data operazione 30/04/25",
+      "Importo": 12.49,
+      "Tipo": "Altre Uscite",
+      "Data": "02/05/2025"
+    },
+    {
+      "Titolo": "Stipendio",
+      "Descrizione": "Ord: ELISA INDUSTRIQ ITALY S.P.A Ben: GA SARO MASSIMILIANO Dt-ord: 30/04/2025 Ban ca Ord: CREDIT AGRICOLE ITALIA SP Info-C li: APRILE 2025",
+      "Importo": 1847.0,
+      "Tipo": "Stipendio",
+      "Data": "30/04/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1041829059176/PAYPAL",
+      "Importo": 2.99,
+      "Tipo": "Altre Uscite",
+      "Data": "29/04/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1041789699618/PAYPAL",
+      "Importo": 13.99,
+      "Tipo": "Altre Uscite",
+      "Data": "29/04/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "SU MA SI PAR LON TORINO IT Carta N. ***** 478 Data operazione 27/04/25",
+      "Importo": 31.0,
+      "Tipo": "Altre Uscite",
+      "Data": "29/04/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "MARA DEI BOSCHI TORINO IT Carta N. ***** 478 Data operazione 26/04/25",
+      "Importo": 12.5,
+      "Tipo": "Altre Uscite",
+      "Data": "29/04/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "RAPPORTI INTERNI SPORTELLO 00777 Addebit o SDD fattura a Vs carico da IT110040000000799960158 Mand BCDL7901 02500089174978 Per INTESA SANPAOLO",
+      "Importo": 147.6,
+      "Tipo": "Altre Uscite",
+      "Data": "28/04/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "MAGNO TORINO IT Carta N. ***** 478 Data operazione 26/04/25",
+      "Importo": 12.0,
+      "Tipo": "Altre Uscite",
+      "Data": "28/04/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "UA TORINO SETTIMO TORIN IT Carta N. ***** 478 Data operazione 23/04/25",
+      "Importo": 28.0,
+      "Tipo": "Altre Uscite",
+      "Data": "28/04/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "MACELLERIA CAVOUR CAMBIANO IT Carta N. ***** 478 Data operazione 19/04/25",
+      "Importo": 77.6,
+      "Tipo": "Altre Uscite",
+      "Data": "24/04/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "Satispay Europe S.A. Addebito SDD fattur a a Vs carico da LU08HOO0000000000000001642 Mand SAT02 20926073841583195 Per Ricarica dell'app Satispay",
+      "Importo": 69.24,
+      "Tipo": "Altre Uscite",
+      "Data": "23/04/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ord: GUMIERO SILVIA GASARO OTTAVIO Ben: MASSIMILIANO GASARO Dt-ord: 23/04/2025 Banca Ord: INTESA SANPAOLO SPA Info-Cli: Roma saldo fino al 22 aprile",
+      "Importo": 814.0,
+      "Tipo": "Altre Uscite",
+      "Data": "23/04/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ord: MAINIERI NICOLE MATILDA Ben: MASSIM ILIANO GASARO Dt-ord: 23/04/2025 Banca O rd: INTESA SANPAOLO SPA Info-Cli: Sciare",
+      "Importo": 25.0,
+      "Tipo": "Altre Uscite",
+      "Data": "23/04/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "PAYPAL *PAGA IN 3 RATE 0689386461 IT Carta N. ***** 478 Data operazione 20/04/25",
+      "Importo": 34.99,
+      "Tipo": "Altre Uscite",
+      "Data": "23/04/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Estero",
+      "Descrizione": "Ord: PayPal Europe S.a.r.l. et Cie S.C.A Ben: Massimiliano Gasaro Dt-ord: 22/04/ 2025 Banca Ord: PayPal (Europe) S.a r.l. Info-Cli: YYW1041710247065/PAYPAL",
+      "Importo": 30.0,
+      "Tipo": "Altre Uscite",
+      "Data": "22/04/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "WWW.RUNCARD.COM WWW.RUNCARD.C IT Carta N. ***** 478 Data operazione 15/04/25",
+      "Importo": 30.0,
+      "Tipo": "Altre Uscite",
+      "Data": "17/04/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "PV0446 MONCALIERI IT Carta N. ***** 478 Data operazione 12/04/25",
+      "Importo": 15.87,
+      "Tipo": "Altre Uscite",
+      "Data": "15/04/2025"
+    },
+    {
+      "Titolo": "Pagamento Bancomat",
+      "Descrizione": "Pag. del 11/04/25 ora 19:40 presso: GMG CENTRO MEDICO SPOR VIA MONTE BIANCO 12 MONCALIERI 10024 ITA Carta N *****347 Nessuna Commissione",
+      "Importo": 45.0,
+      "Tipo": "Altre Uscite",
+      "Data": "12/04/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "PARCHEGGIO VIA ROMA TORINO IT Carta N. ***** 478 Data operazione 07/04/25",
+      "Importo": 12.0,
+      "Tipo": "Altre Uscite",
+      "Data": "09/04/2025"
+    },
+    {
+      "Titolo": "Conferimento Fondo Pensione",
+      "Descrizione": "AMUNDI Rata 1000289324 Dec 08.04.2025",
+      "Importo": 150.0,
+      "Tipo": "Altre Uscite",
+      "Data": "08/04/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "VICTOR 37 S.R.L. UNIPE CHIERI IT Carta N. ***** 478 Data operazione 06/04/25",
+      "Importo": 11.0,
+      "Tipo": "Altre Uscite",
+      "Data": "08/04/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1041322083454/PAYPAL",
+      "Importo": 5.99,
+      "Tipo": "Altre Uscite",
+      "Data": "07/04/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1041322069624/PAYPAL",
+      "Importo": 5.99,
+      "Tipo": "Altre Uscite",
+      "Data": "07/04/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "American Express Italia srl Addebito SDD fattura a Vs carico da IT07AEX0000014445281000 Mand E2023332 067049190 Per 81003",
+      "Importo": 21.86,
+      "Tipo": "Altre Uscite",
+      "Data": "07/04/2025"
+    },
+    {
+      "Titolo": "Sconto Canone Mensile",
+      "Descrizione": "Sconto Canone Mensile Marzo 2025",
+      "Importo": 1.75,
+      "Tipo": "Altre Uscite",
+      "Data": "07/04/2025"
+    },
+    {
+      "Titolo": "Canone Mensile Conto",
+      "Descrizione": "Canone Mensile Conto Marzo 2025",
+      "Importo": 1.75,
+      "Tipo": "Altre Uscite",
+      "Data": "07/04/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "CONSULENTE J MEDICAL TORINO IT Carta N. ***** 478 Data operazione 02/04/25",
+      "Importo": 280.0,
+      "Tipo": "Altre Uscite",
+      "Data": "04/04/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "PAYPAL *PAGA IN 3 RATE 0689386461 IT Carta N. ***** 478 Data operazione 31/03/25",
+      "Importo": 73.33,
+      "Tipo": "Altre Uscite",
+      "Data": "03/04/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "Wind Tre S.p.A. Addebito SDD fattura a V s carico da IT620010000002517580920 Mand P1118928 916 Per",
+      "Importo": 11.99,
+      "Tipo": "Altre Uscite",
+      "Data": "01/04/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "Satispay Europe S.A. Addebito SDD fattur a a Vs carico da LU08HOO0000000000000001642 Mand SAT02 20926073841583195 Per Ricarica dell'app Satispay",
+      "Importo": 36.11,
+      "Tipo": "Altre Uscite",
+      "Data": "01/04/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "American Express Italia srl Addebito SDD fattura a Vs carico da IT07AEX0000014445281000 Mand E2025056 066664989 Per 51001",
+      "Importo": 6487.32,
+      "Tipo": "Altre Uscite",
+      "Data": "01/04/2025"
+    },
+    {
+      "Titolo": "Imposta bollo conto corrente",
+      "Descrizione": "Imposta di bollo di conto corrente del 31.03.2025",
+      "Importo": 8.43,
+      "Tipo": "Altre Uscite",
+      "Data": "01/04/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "MILK TORINO IT Carta N. ***** 478 Data operazione 30/03/25",
+      "Importo": 3.0,
+      "Tipo": "Altre Uscite",
+      "Data": "01/04/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1041166176270/PAYPAL",
+      "Importo": 2.99,
+      "Tipo": "Altre Uscite",
+      "Data": "31/03/2025"
+    },
+    {
+      "Titolo": "Stipendio",
+      "Descrizione": "Ord: ATOMOS HYLA SPA SOCIETA UNIPERSONA LE Ben: GASARO MASSIMILIANO Dt-ord: 31/0 3/2025 Banca Ord: INTESA SANPAOLO SPA In fo-Cli: MARZO 2025",
+      "Importo": 2169.0,
+      "Tipo": "Stipendio",
+      "Data": "31/03/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ord: GUMIERO SILVIA GASARO OTTAVIO Ben: MASSIMILIANO GASARO Dt-ord: 31/03/2025 Banca Ord: INTESA SANPAOLO SPA Info-Cli: Rimborso fino al 28 03",
+      "Importo": 534.0,
+      "Tipo": "Altre Uscite",
+      "Data": "31/03/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "PAYPAL *PAGA IN 3 RATE 0689386461 IT Carta N. ***** 478 Data operazione 29/03/25",
+      "Importo": 33.73,
+      "Tipo": "Altre Uscite",
+      "Data": "31/03/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "ESSO TROFARELLO IT Carta N. ***** 478 Data operazione 28/03/25",
+      "Importo": 16.45,
+      "Tipo": "Altre Uscite",
+      "Data": "31/03/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "RAPPORTI INTERNI SPORTELLO 00777 Addebit o SDD fattura a Vs carico da IT110040000000799960158 Mand BCDL7901 02500089174978 Per INTESA SANPAOLO",
+      "Importo": 180.0,
+      "Tipo": "Altre Uscite",
+      "Data": "28/03/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1041115574709/PAYPAL",
+      "Importo": 10.0,
+      "Tipo": "Altre Uscite",
+      "Data": "27/03/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1041125793145/PAYPAL",
+      "Importo": 13.99,
+      "Tipo": "Altre Uscite",
+      "Data": "27/03/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1041130757645/PAYPAL",
+      "Importo": 638.44,
+      "Tipo": "Altre Uscite",
+      "Data": "27/03/2025"
+    },
+    {
+      "Titolo": "Versamento Contanti presso ATM",
+      "Descrizione": "Versamento Contanti Atm del 27/03/2025 ore 18:05:36 Rif. 0022393042",
+      "Importo": 350.0,
+      "Tipo": "Altre Uscite",
+      "Data": "27/03/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "HOTEL MODERNO VERDI GENOVA IT Carta N. ***** 478 Data operazione 25/03/25",
+      "Importo": 4.0,
+      "Tipo": "Altre Uscite",
+      "Data": "27/03/2025"
+    },
+    {
+      "Titolo": "Bonifico Istantaneo",
+      "Descrizione": "Ordinante: Massimiliano Gasaro Beneficia rio: Massimiliano Gasaro Banca Ordinante : TRADE REPUBLIC BANK GMBH Data accredit o: 26/03/2025 Causale:",
+      "Importo": 550.0,
+      "Tipo": "Altre Uscite",
+      "Data": "26/03/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "DOLC'E' PASTICCERIA CHIERI IT Carta N. ***** 478 Data operazione 22/03/25",
+      "Importo": 53.2,
+      "Tipo": "Altre Uscite",
+      "Data": "25/03/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "DOLC'E' PASTICCERIA CHIERI IT Carta N. ***** 478 Data operazione 22/03/25",
+      "Importo": 8.0,
+      "Tipo": "Altre Uscite",
+      "Data": "25/03/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Estero",
+      "Descrizione": "Ord: Satispay Europe S.A. Ben: Massimili ano Gasaro Dt-ord: 24/03/2025 Banca Ord: SATISPAY EUROPE SA Info-Cli: Accredito dall'app Satispay",
+      "Importo": 578.0,
+      "Tipo": "Altre Uscite",
+      "Data": "24/03/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "CERVINO SPA VALTOURNENCHE IT Carta N. ***** 478 Data operazione 20/03/25",
+      "Importo": 12.0,
+      "Tipo": "Altre Uscite",
+      "Data": "24/03/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "PAYPAL *PAGA IN 3 RATE 0689386461 IT Carta N. ***** 478 Data operazione 20/03/25",
+      "Importo": 35.0,
+      "Tipo": "Altre Uscite",
+      "Data": "24/03/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Estero",
+      "Descrizione": "Ord: Satispay Europe S.A. Ben: Massimili ano Gasaro Dt-ord: 21/03/2025 Banca Ord: SATISPAY EUROPE SA Info-Cli: Accredito dall'app Satispay",
+      "Importo": 150.0,
+      "Tipo": "Altre Uscite",
+      "Data": "21/03/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ben: Aurora Curatolo Ins: 21/03/2025 12: 36:39 Da: INTERNET Iban: IT14E0200820000 000104351131 TransID: 250321281541788148 0320030220IT Cau: ACCONTO Agenzia Viaggi o",
+      "Importo": 232.5,
+      "Tipo": "Altre Uscite",
+      "Data": "21/03/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ord: GUARNERI GIANCARLO Ben: GASARO MASS IMILIANO Dt-ord: 20/03/2025 Banca Ord: F IDEURAM INTESA SANPAOLO Info-Cli: Sci",
+      "Importo": 128.0,
+      "Tipo": "Altre Uscite",
+      "Data": "20/03/2025"
+    },
+    {
+      "Titolo": "Bonifico Istantaneo",
+      "Descrizione": "Ordinante: BETHAZ PAOLO Beneficiario: MA SSIMILIANO GASARO Banca Ordinante: INTES A SANPAOLO SPA Data accredito: 19/03/202 5 Causale: Skipass",
+      "Importo": 64.0,
+      "Tipo": "Altre Uscite",
+      "Data": "19/03/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ord: GUMIERO SILVIA GASARO OTTAVIO Ben: MASSIMILIANO GASARO Dt-ord: 18/03/2025 Banca Ord: INTESA SANPAOLO SPA Info-Cli: Bbq e accessori",
+      "Importo": 1250.0,
+      "Tipo": "Altre Uscite",
+      "Data": "18/03/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1040863659246/PAYPAL",
+      "Importo": 95.8,
+      "Tipo": "Altre Uscite",
+      "Data": "17/03/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "SODEXO-IT004854 - CULM GENOVA IT Carta N. ***** 478 Data operazione 11/03/25",
+      "Importo": 10.0,
+      "Tipo": "Altre Uscite",
+      "Data": "13/03/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1040761824994/PAYPAL",
+      "Importo": 8.0,
+      "Tipo": "Altre Uscite",
+      "Data": "11/03/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "Satispay Europe S.A. Addebito SDD fattur a a Vs carico da LU08HOO0000000000000001642 Mand SAT02 20926073841583195 Per Ricarica dell'app Satispay",
+      "Importo": 59.26,
+      "Tipo": "Altre Uscite",
+      "Data": "11/03/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "ESSO TROFARELLO IT Carta N. ***** 478 Data operazione 09/03/25",
+      "Importo": 20.0,
+      "Tipo": "Altre Uscite",
+      "Data": "11/03/2025"
+    },
+    {
+      "Titolo": "Conferimento Fondo Pensione",
+      "Descrizione": "AMUNDI Rata 1000289324 Dec 10.03.2025",
+      "Importo": 150.0,
+      "Tipo": "Altre Uscite",
+      "Data": "10/03/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "American Express Italia srl Addebito SDD fattura a Vs carico da IT07AEX0000014445281000 Mand E2023332 067049190 Per 81003",
+      "Importo": 7557.0,
+      "Tipo": "Altre Uscite",
+      "Data": "10/03/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "SHARM DI CAMBIANO CAMBIANO IT Carta N. ***** 478 Data operazione 08/03/25",
+      "Importo": 88.0,
+      "Tipo": "Altre Uscite",
+      "Data": "10/03/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "ACIMMAGINE SRL PARCHEG TORINO IT Carta N. ***** 478 Data operazione 08/03/25",
+      "Importo": 5.5,
+      "Tipo": "Altre Uscite",
+      "Data": "10/03/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "TAP & GO TORINO IT Carta N. ***** 478 Data operazione 04/03/25",
+      "Importo": 1.9,
+      "Tipo": "Altre Uscite",
+      "Data": "07/03/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ord: GUMIERO SILVIA GASARO OTTAVIO Ben: MASSIMILIANO GASARO Dt-ord: 06/03/2025 Banca Ord: INTESA SANPAOLO SPA Info-Cli: Spesa",
+      "Importo": 340.0,
+      "Tipo": "Altre Uscite",
+      "Data": "06/03/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "HAIR CARE SALON SRL TORINO IT Carta N. ***** 478 Data operazione 04/03/25",
+      "Importo": 20.0,
+      "Tipo": "Altre Uscite",
+      "Data": "06/03/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1040655718854/PAYPAL",
+      "Importo": 5.99,
+      "Tipo": "Altre Uscite",
+      "Data": "05/03/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1040655737195/PAYPAL",
+      "Importo": 5.99,
+      "Tipo": "Altre Uscite",
+      "Data": "05/03/2025"
+    },
+    {
+      "Titolo": "Sconto Canone Mensile",
+      "Descrizione": "Sconto Canone Mensile Febbraio 2025",
+      "Importo": 1.75,
+      "Tipo": "Altre Uscite",
+      "Data": "05/03/2025"
+    },
+    {
+      "Titolo": "Canone Mensile Conto",
+      "Descrizione": "Canone Mensile Conto Febbraio 2025",
+      "Importo": 1.75,
+      "Tipo": "Altre Uscite",
+      "Data": "05/03/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "Satispay Europe S.A. Addebito SDD fattur a a Vs carico da LU08HOO0000000000000001642 Mand SAT02 20926073841583195 Per Ricarica dell'app Satispay",
+      "Importo": 26.76,
+      "Tipo": "Altre Uscite",
+      "Data": "04/03/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1040557265640/PAYPAL",
+      "Importo": 2.99,
+      "Tipo": "Altre Uscite",
+      "Data": "03/03/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "WIND TRE SPA Addebito SDD fattura a Vs c arico da IT620010000002517580920 Mand P1118928 916 Per",
+      "Importo": 11.99,
+      "Tipo": "Altre Uscite",
+      "Data": "03/03/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "PAYPAL *PAGA IN 3 RATE 0689386461 IT Carta N. ***** 478 Data operazione 01/03/25",
+      "Importo": 73.34,
+      "Tipo": "Altre Uscite",
+      "Data": "03/03/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "PAYPAL *PAGA IN 3 RATE 0689386461 IT Carta N. ***** 478 Data operazione 27/02/25",
+      "Importo": 33.74,
+      "Tipo": "Altre Uscite",
+      "Data": "03/03/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "RAPPORTI INTERNI SPORTELLO 00777 Addebit o SDD fattura a Vs carico da IT110040000000799960158 Mand BCDL7901 02500089174978 Per INTESA SANPAOLO",
+      "Importo": 903.07,
+      "Tipo": "Altre Uscite",
+      "Data": "28/02/2025"
+    },
+    {
+      "Titolo": "Stipendio",
+      "Descrizione": "Ord: ATOMOS HYLA S.P.A. SOCIETA UNIPERSONALE Ben: GASARO MASSIMILIANO Dt -ord: 28/02/2025 Banca Ord: BANCA MONTE DEI PASCHI DI Info-Cli: FEBBRAIO 2025",
+      "Importo": 3694.0,
+      "Tipo": "Stipendio",
+      "Data": "28/02/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1040516962603/PAYPAL",
+      "Importo": 13.99,
+      "Tipo": "Altre Uscite",
+      "Data": "27/02/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "DECATHLON 00000341 MONCALIERI IT Carta N. ***** 478 Data operazione 23/02/25",
+      "Importo": 12.99,
+      "Tipo": "Altre Uscite",
+      "Data": "26/02/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "PAYPAL *PAGA IN 3 RATE 0689386461 IT Carta N. ***** 478 Data operazione 21/02/25",
+      "Importo": 35.0,
+      "Tipo": "Altre Uscite",
+      "Data": "24/02/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "POSTE ITALIANE CAMBIANO IT Carta N. ***** 478 Data operazione 20/02/25",
+      "Importo": 44.5,
+      "Tipo": "Altre Uscite",
+      "Data": "24/02/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "SUPERMERCATO NOVA COOP CHIERI IT Carta N. ***** 478 Data operazione 20/02/25",
+      "Importo": 93.44,
+      "Tipo": "Altre Uscite",
+      "Data": "24/02/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "JACOPO SAGGESE CAMBIANO IT Carta N. ***** 478 Data operazione 20/02/25",
+      "Importo": 73.5,
+      "Tipo": "Altre Uscite",
+      "Data": "24/02/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "TH2200 LA THUILE IT Carta N. ***** 478 Data operazione 16/02/25",
+      "Importo": 3.8,
+      "Tipo": "Altre Uscite",
+      "Data": "18/02/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "TH2200 LA THUILE IT Carta N. ***** 478 Data operazione 16/02/25",
+      "Importo": 3.5,
+      "Tipo": "Altre Uscite",
+      "Data": "18/02/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "SUPERMERCATO NOVA COOP CHIERI IT Carta N. ***** 478 Data operazione 13/02/25",
+      "Importo": 28.87,
+      "Tipo": "Altre Uscite",
+      "Data": "17/02/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "CDC CENTRO POLISPECIA. MONCALIERI IT Carta N. ***** 478 Data operazione 13/02/25",
+      "Importo": 13.0,
+      "Tipo": "Altre Uscite",
+      "Data": "17/02/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "DECATHLON 00000341 MONCALIERI IT Carta N. ***** 478 Data operazione 12/02/25",
+      "Importo": 49.99,
+      "Tipo": "Altre Uscite",
+      "Data": "14/02/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "CDC CENTRO POLISPECIA. MONCALIERI IT Carta N. ***** 478 Data operazione 12/02/25",
+      "Importo": 70.0,
+      "Tipo": "Altre Uscite",
+      "Data": "14/02/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ord: BARNABA GRETA Ben: MASSIMILIANO GAS ARO Dt-ord: 12/02/2025 Banca Ord: FIDEUR AM INTESA SANPAOLO Info-Cli: Mexicoooooo",
+      "Importo": 1030.0,
+      "Tipo": "Altre Uscite",
+      "Data": "12/02/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ord: GRATTAPAGLIA MARCO Ben: Massimilian o Gasaro Dt-ord: 11/02/2025 Banca Ord: P OSTE ITALIANE S.P.A. - P Info-Cli: saldo viaggio messico",
+      "Importo": 2061.0,
+      "Tipo": "Altre Uscite",
+      "Data": "11/02/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ord: CURATOLO AURORA Ben: MASSIMILIANO G ASARO Dt-ord: 11/02/2025 Banca Ord: UNIC REDIT SPA Info-Cli: Voli Mexico",
+      "Importo": 1030.0,
+      "Tipo": "Altre Uscite",
+      "Data": "11/02/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ord: GIORDANETTO ALESSANDRO Ben: Massimi liano Gasaro Dt-ord: 11/02/2025 Banca Or d: BANCA D'ALBA CREDITO COOP Info-Cli: V olo messico",
+      "Importo": 1030.0,
+      "Tipo": "Altre Uscite",
+      "Data": "11/02/2025"
+    },
+    {
+      "Titolo": "Conferimento Fondo Pensione",
+      "Descrizione": "AMUNDI Rata 1000289324 Dec 10.02.2025",
+      "Importo": 150.0,
+      "Tipo": "Altre Uscite",
+      "Data": "10/02/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "PLAYTOMIC.IO 6F6845C1 MADRID ES Carta N. ***** 478 Data operazione 08/02/25",
+      "Importo": 50.0,
+      "Tipo": "Altre Uscite",
+      "Data": "10/02/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "CDC CENTRO POLISPECIA. MONCALIERI IT Carta N. ***** 478 Data operazione 06/02/25",
+      "Importo": 48.0,
+      "Tipo": "Altre Uscite",
+      "Data": "10/02/2025"
+    },
+    {
+      "Titolo": "Bonifico Istantaneo",
+      "Descrizione": "Ordinante: ZAPPA ELEONORA Beneficiario: Massimiliano Gasaro Banca Ordinante: UNI CREDIT SPA Data accredito: 09/02/2025 Ca usale: Volo messico",
+      "Importo": 1030.0,
+      "Tipo": "Altre Uscite",
+      "Data": "09/02/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "American Express Italia srl Addebito SDD fattura a Vs carico da IT07AEX0000014445281000 Mand E2023332 067049190 Per 81003",
+      "Importo": 3646.0,
+      "Tipo": "Altre Uscite",
+      "Data": "07/02/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1040054544583/PAYPAL",
+      "Importo": 5.99,
+      "Tipo": "Altre Uscite",
+      "Data": "05/02/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1040054546105/PAYPAL",
+      "Importo": 5.99,
+      "Tipo": "Altre Uscite",
+      "Data": "05/02/2025"
+    },
+    {
+      "Titolo": "Sconto Canone Mensile",
+      "Descrizione": "Sconto Canone Mensile Gennaio 2025",
+      "Importo": 1.75,
+      "Tipo": "Altre Uscite",
+      "Data": "05/02/2025"
+    },
+    {
+      "Titolo": "Canone Mensile Conto",
+      "Descrizione": "Canone Mensile Conto Gennaio 2025",
+      "Importo": 1.75,
+      "Tipo": "Altre Uscite",
+      "Data": "05/02/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "ESSO TROFARELLO IT Carta N. ***** 478 Data operazione 02/02/25",
+      "Importo": 20.0,
+      "Tipo": "Altre Uscite",
+      "Data": "04/02/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "Wind Tre S.p.A. Addebito SDD fattura a V s carico da IT620010000002517580920 Mand P1118928 916 Per CINV/T250001412677",
+      "Importo": 11.99,
+      "Tipo": "Altre Uscite",
+      "Data": "03/02/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "PAYPAL *PAGA IN 3 RATE 0689386461 IT Carta N. ***** 478 Data operazione 01/02/25",
+      "Importo": 73.33,
+      "Tipo": "Altre Uscite",
+      "Data": "03/02/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "PAYPAL *PAGA IN 3 RATE 0689386461 IT Carta N. ***** 478 Data operazione 29/01/25",
+      "Importo": 111.23,
+      "Tipo": "Altre Uscite",
+      "Data": "03/02/2025"
+    },
+    {
+      "Titolo": "Stipendio",
+      "Descrizione": "Ord: ATOMOS HYLA S.P.A. Ben: GASARO MASS IMILIANO Dt-ord: 31/01/2025 Banca Ord: C REDIT AGRICOLE ITALIA SP Info-Cli: GENNA IO 2025",
+      "Importo": 1948.0,
+      "Tipo": "Stipendio",
+      "Data": "31/01/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "TAP & GO TORINO IT Carta N. ***** 478 Data operazione 28/01/25",
+      "Importo": 1.9,
+      "Tipo": "Altre Uscite",
+      "Data": "31/01/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "Revolut**6376* Dublin IE Carta N. ***** 478 Data operazione 28/01/25",
+      "Importo": 50.0,
+      "Tipo": "Altre Uscite",
+      "Data": "30/01/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1039902166748/PAYPAL",
+      "Importo": 2.99,
+      "Tipo": "Altre Uscite",
+      "Data": "29/01/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1039855814382/PAYPAL",
+      "Importo": 5.99,
+      "Tipo": "Altre Uscite",
+      "Data": "28/01/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1039863335772/PAYPAL",
+      "Importo": 13.99,
+      "Tipo": "Altre Uscite",
+      "Data": "28/01/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Estero",
+      "Descrizione": "Ben: Massimiliano Gasaro Ins: 27/01/2025 20:11:39 Da: PHONE/VOICE P. Iban: DE055 02109007012136662 TransID: 2501262768957 414480320030220IT Cau: investimenti",
+      "Importo": 1000.0,
+      "Tipo": "Altre Uscite",
+      "Data": "27/01/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ben: Massimiliano Gasaro Ins: 27/01/2025 20:34:49 Da: PHONE/VOICE P. Iban: IT80N 0366901600700459827216 TransID: 25012627 68964177480320030220IT Cau: revolut",
+      "Importo": 50.0,
+      "Tipo": "Altre Uscite",
+      "Data": "27/01/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "Rettifica Valuta - VIGLIETTI SPORT SRL TORINO",
+      "Importo": 680.0,
+      "Tipo": "Altre Uscite",
+      "Data": "27/01/2025"
+    },
+    {
+      "Titolo": "Storno Operaz.FinecoCard Debit",
+      "Descrizione": "Storno - VIGLIETTI SPORT SRL TORINO IT C",
+      "Importo": 680.0,
+      "Tipo": "Altre Uscite",
+      "Data": "27/01/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "FEYLES S.R.L. CAMBIANO IT Carta N. ***** 478 Data operazione 18/01/25",
+      "Importo": 10.0,
+      "Tipo": "Altre Uscite",
+      "Data": "21/01/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "LEROY MERLIN MONCALIERI IT Carta N. ***** 478 Data operazione 18/01/25",
+      "Importo": 12.24,
+      "Tipo": "Altre Uscite",
+      "Data": "21/01/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "SUPERMERCATO NOVA COOP CHIERI IT Carta N. ***** 478 Data operazione 18/01/25",
+      "Importo": 170.8,
+      "Tipo": "Altre Uscite",
+      "Data": "20/01/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1039642065182/PAYPAL",
+      "Importo": 2.0,
+      "Tipo": "Altre Uscite",
+      "Data": "17/01/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ben: Massimiliano Gasaro Ins: 15/01/2025 22:30:59 Da: PHONE/VOICE P. Iban: IT84K 0306930360100000070365 TransID: 25011427 59362730480320030220IT Cau: giroconto",
+      "Importo": 20000.0,
+      "Tipo": "Altre Uscite",
+      "Data": "15/01/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Estero",
+      "Descrizione": "Ord: PayPal Europe S.a.r.l. et Cie S.C.A Ben: Massimiliano Gasaro Dt-ord: 13/01/ 2025 Banca Ord: PayPal (Europe) S.a r.l. Info-Cli: YYW1039595050276/PAYPAL",
+      "Importo": 9.95,
+      "Tipo": "Altre Uscite",
+      "Data": "13/01/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "PLAYTOMIC.IO 21D93D39 MADRID ES Carta N. ***** 478 Data operazione 11/01/25",
+      "Importo": 45.0,
+      "Tipo": "Altre Uscite",
+      "Data": "13/01/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "PLAYTOMIC.IO ECF5557F MADRID ES Carta N. ***** 478 Data operazione 11/01/25",
+      "Importo": 56.0,
+      "Tipo": "Altre Uscite",
+      "Data": "13/01/2025"
+    },
+    {
+      "Titolo": "Conferimento Fondo Pensione",
+      "Descrizione": "AMUNDI Rata 1000289324 Dec 08.01.2025",
+      "Importo": 150.0,
+      "Tipo": "Altre Uscite",
+      "Data": "08/01/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "PayPal Europe S.a.r.l. et Cie S.C.A Adde bito SDD fattura a Vs carico da LU96ZZZ0000000000000000058 Mand 5ZPJ2 24ZDWY5J Per 1039465561738/PAYPAL",
+      "Importo": 12.08,
+      "Tipo": "Altre Uscite",
+      "Data": "08/01/2025"
+    },
+    {
+      "Titolo": "Versamento Contanti presso ATM",
+      "Descrizione": "Versamento Contanti Atm del 08/01/2025 ore 20:18:33 Rif. 0022065866",
+      "Importo": 500.0,
+      "Tipo": "Altre Uscite",
+      "Data": "08/01/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "CANTINE RISSO TORINO IT Carta N. ***** 478 Data operazione 06/01/25",
+      "Importo": 37.0,
+      "Tipo": "Altre Uscite",
+      "Data": "08/01/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "American Express Italia srl Addebito SDD fattura a Vs carico da IT07AEX0000014445281000 Mand E2023332 067049190 Per 81003",
+      "Importo": 166.6,
+      "Tipo": "Altre Uscite",
+      "Data": "07/01/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "ONE TORINO IT Carta N. ***** 478 Data operazione 04/01/25",
+      "Importo": 3.0,
+      "Tipo": "Altre Uscite",
+      "Data": "07/01/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "ONE TORINO IT Carta N. ***** 478 Data operazione 04/01/25",
+      "Importo": 20.0,
+      "Tipo": "Altre Uscite",
+      "Data": "07/01/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "IEZU SAS TORINO IT Carta N. ***** 478 Data operazione 04/01/25",
+      "Importo": 30.0,
+      "Tipo": "Altre Uscite",
+      "Data": "07/01/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "GAF CAMBIANO IT Carta N. ***** 478 Data operazione 04/01/25",
+      "Importo": 6.0,
+      "Tipo": "Altre Uscite",
+      "Data": "07/01/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "JustEatItaly MILANO IT Carta N. ***** 478 Data operazione 03/01/25",
+      "Importo": 52.8,
+      "Tipo": "Altre Uscite",
+      "Data": "07/01/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "KM90 RISTO BOTTEGA EMI FIDENZA IT Carta N. ***** 478 Data operazione 02/01/25",
+      "Importo": 13.37,
+      "Tipo": "Altre Uscite",
+      "Data": "07/01/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "KM90 RISTO BOTTEGA EMI FIDENZA IT Carta N. ***** 478 Data operazione 02/01/25",
+      "Importo": 19.7,
+      "Tipo": "Altre Uscite",
+      "Data": "07/01/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "ORTOFRUTTA SARAGOZZA BOLOGNA IT Carta N. ***** 478 Data operazione 31/12/24",
+      "Importo": 32.15,
+      "Tipo": "Altre Uscite",
+      "Data": "07/01/2025"
+    },
+    {
+      "Titolo": "Sconto Canone Mensile",
+      "Descrizione": "Sconto Canone Mensile Dicembre 2024",
+      "Importo": 1.75,
+      "Tipo": "Altre Uscite",
+      "Data": "07/01/2025"
+    },
+    {
+      "Titolo": "Canone Mensile Conto",
+      "Descrizione": "Canone Mensile Conto Dicembre 2024",
+      "Importo": 1.75,
+      "Tipo": "Altre Uscite",
+      "Data": "07/01/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Estero",
+      "Descrizione": "Ord: PayPal Europe S.a.r.l. et Cie S.C.A Ben: Massimiliano Gasaro Dt-ord: 06/01/ 2025 Banca Ord: PayPal (Europe) S.a r.l. Info-Cli: YYW1039396679605/PAYPAL",
+      "Importo": 15.02,
+      "Tipo": "Altre Uscite",
+      "Data": "06/01/2025"
+    },
+    {
+      "Titolo": "SEPA Direct Debit",
+      "Descrizione": "WIND TRE S P A Addebito SDD fattura a Vs carico da IT620010000002517580920 Mand P1118928 916 Per Wind Tre S.p.A.",
+      "Importo": 11.99,
+      "Tipo": "Altre Uscite",
+      "Data": "02/01/2025"
+    },
+    {
+      "Titolo": "Bonifico Istantaneo",
+      "Descrizione": "Beneficiario: Massimiliano Gasaro IBAN: IT15B0306967684510377182429 Data Inserim ento: 02/01/2025 09:03:32 Canale: PHONE/ VOICE P. Causale: tass di soggiorno Bolo gna TRN: 2501022749052118480320000000IT",
+      "Importo": 275.0,
+      "Tipo": "Altre Uscite",
+      "Data": "02/01/2025"
+    },
+    {
+      "Titolo": "Comm. Bonifico Istantaneo",
+      "Descrizione": "Commissione Bonifico istantaneo",
+      "Importo": 0.85,
+      "Tipo": "Altre Uscite",
+      "Data": "02/01/2025"
+    },
+    {
+      "Titolo": "Bonifico SEPA Italia",
+      "Descrizione": "Ord: CHIARA FRANCESCO Ben: Massimiliano Gasaro Dt-Ord: 02/01/2025 Banca Ord: FIN ECOBANK SPA Info-Cli: capodanno 2024",
+      "Importo": 147.0,
+      "Tipo": "Altre Uscite",
+      "Data": "02/01/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "EUROSHOP BOLOGNA IT Carta N. ***** 478 Data operazione 31/12/24",
+      "Importo": 11.0,
+      "Tipo": "Altre Uscite",
+      "Data": "02/01/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "VASTA LUCA BOLOGNA IT Carta N. ***** 478 Data operazione 31/12/24",
+      "Importo": 8.3,
+      "Tipo": "Altre Uscite",
+      "Data": "02/01/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "PITAGORA SNC BOLOGNA IT Carta N. ***** 478 Data operazione 31/12/24",
+      "Importo": 7.5,
+      "Tipo": "Altre Uscite",
+      "Data": "02/01/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "ZAMBONI 3 PIZZA & FRI. BOLOGNA IT Carta N. ***** 478 Data operazione 31/12/24",
+      "Importo": 8.5,
+      "Tipo": "Altre Uscite",
+      "Data": "02/01/2025"
+    },
+    {
+      "Titolo": "Imposta bollo conto corrente",
+      "Descrizione": "Imposta di bollo di conto corrente del 31.12.2024",
+      "Importo": 8.6,
+      "Tipo": "Altre Uscite",
+      "Data": "02/01/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "LA PICCOLA BAITA BOLOGNA IT Carta N. ***** 478 Data operazione 30/12/24",
+      "Importo": 71.0,
+      "Tipo": "Altre Uscite",
+      "Data": "02/01/2025"
+    },
+    {
+      "Titolo": "Pagamento Visa Debit",
+      "Descrizione": "TRATTORIA CASA MIA BOLOGNA IT Carta N. ***** 478 Data operazione 30/12/24",
+      "Importo": 17.5,
+      "Tipo": "Altre Uscite",
+      "Data": "02/01/2025"
+    }
+  ],
+  "summary": {
+    "total_records": 239,
+    "total_amount": 86794.59,
+    "processed_date": "25/07/2025 17:26:46"
+  }
+}
