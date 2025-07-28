@@ -5,6 +5,11 @@ import json
 import requests
 from typing import Optional, List, Dict, Any
 from datetime import datetime
+import logging
+
+# Configurazione del logging
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s', filename='app.log', filemode='w')
+logger = logging.getLogger(__name__)
 
 # Variabili globali
 DEFAULT_FILE_PATH: str = "data.xlsx"
@@ -14,7 +19,7 @@ AUTH_TOKEN: Optional[str] = None
 def main() -> None:
     workbook = open_excel_file(DEFAULT_FILE_PATH)
     if workbook is None:
-        print("Impossibile aprire il file Excel")
+        logger.error("Impossibile aprire il file Excel")
         return
     
     sheet = workbook.active
@@ -24,9 +29,9 @@ def main() -> None:
     json_output = create_json_body(data)
     
     # Stampare il JSON
-    print("\nJSON creato:")
-    print(json.dumps(json_output, indent=2, ensure_ascii=False))
-    
+    logger.info("JSON creato:")
+    logger.info(json.dumps(json_output, indent=2, ensure_ascii=False))
+
     # Salvare il JSON su file (opzionale)
     save_json_to_file(json_output, "output.json")
     
@@ -34,8 +39,8 @@ def main() -> None:
     if API_CONFIG and API_CONFIG['base_url']:
         execute_api_workflow(json_output)
     else:
-        print("Configurazione API non disponibile. Saltando le chiamate HTTP.")
-    
+        logger.warning("Configurazione API non disponibile. Saltando le chiamate HTTP.")
+
     workbook.close()
 
 def read_excel_data(sheet) -> List[Dict[str, Any]]:
@@ -61,10 +66,10 @@ def read_excel_data(sheet) -> List[Dict[str, Any]]:
             visible_columns.append(col)
         elif not cell_value and col <= 6:  # Solo per le prime 6 colonne
             break
-    
-    print(f"Intestazioni trovate: {headers}")
-    print(f"Colonne visibili: {visible_columns}")
-    
+
+    logger.info(f"Intestazioni trovate: {headers}")
+    logger.info(f"Colonne visibili: {visible_columns}")
+
     # Leggere i dati dalle righe successive
     row = 2
     while True:
@@ -104,7 +109,7 @@ def read_excel_data(sheet) -> List[Dict[str, Any]]:
         data.append(record)
         row += 1
     
-    print(f"Trovati {len(data)} record")
+    logger.info(f"Trovati {len(data)} record")
     return data
 
 def create_json_body(data: List[Dict[str, Any]]) -> Dict[str, Any]:
@@ -129,26 +134,26 @@ def save_json_to_file(data: Dict[str, Any], filename: str) -> None:
     try:
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
-        print(f"JSON salvato in: {filename}")
+        logger.info(f"JSON salvato in: {filename}")
     except Exception as e:
-        print(f"Errore nel salvare il JSON: {e}")
+        logger.error(f"Errore nel salvare il JSON: {e}")
 
 def login_api() -> bool:
     """Effettua il login e ottiene il token di autenticazione"""
     global AUTH_TOKEN
     
     if not API_CONFIG:
-        print("Configurazione API non caricata")
+        logger.warning("Configurazione API non caricata")
         return False
     
     login_url = API_CONFIG['base_url'] + API_CONFIG['login_endpoint']
     login_data = {
-        "username": API_CONFIG['username'],
+        "email": API_CONFIG['email'],
         "password": API_CONFIG['password']
     }
     
     try:
-        print(f"Tentativo di login su: {login_url}")
+        logger.info(f"Tentativo di login su: {login_url}")
         response = requests.post(
             login_url,
             json=login_data,
@@ -159,20 +164,20 @@ def login_api() -> bool:
         if response.status_code == 200:
             response_data = response.json()
             # Assumendo che il token sia nel campo 'token' o 'access_token'
-            AUTH_TOKEN = response_data.get('token') or response_data.get('access_token')
-            
+            AUTH_TOKEN = response_data["data"].get('token') or response_data["data"].get('access_token')
+
             if AUTH_TOKEN:
-                print("Login effettuato con successo")
+                logger.info("Login effettuato con successo")
                 return True
             else:
-                print("Token non trovato nella risposta del login")
+                logger.warning("Token non trovato nella risposta del login")
                 return False
         else:
-            print(f"Errore nel login: {response.status_code} - {response.text}")
+            logger.error(f"Errore nel login: {response.status_code} - {response.text}")
             return False
             
     except requests.exceptions.RequestException as e:
-        print(f"Errore di connessione durante il login: {e}")
+        logger.error(f"Errore di connessione durante il login: {e}")
         return False
 
 def api_get_request(endpoint_override: Optional[str] = None) -> Optional[Dict[str, Any]]:
@@ -180,7 +185,7 @@ def api_get_request(endpoint_override: Optional[str] = None) -> Optional[Dict[st
     global AUTH_TOKEN
     
     if not AUTH_TOKEN:
-        print("Token di autenticazione non disponibile. Effettuare prima il login.")
+        logger.warning("Token di autenticazione non disponibile. Effettuare prima il login.")
         return None
     
     endpoint = endpoint_override or API_CONFIG['get_endpoint']
@@ -192,22 +197,22 @@ def api_get_request(endpoint_override: Optional[str] = None) -> Optional[Dict[st
     }
     
     try:
-        print(f"Chiamata GET a: {url}")
+        logger.info(f"Chiamata GET a: {url}")
         response = requests.get(url, headers=headers, timeout=30)
         
         if response.status_code == 200:
-            print("Chiamata GET completata con successo")
+            logger.info("Chiamata GET completata con successo")
             return response.json()
         elif response.status_code == 401:
-            print("Token scaduto o non valido. Rieffettuare il login.")
+            logger.warning("Token scaduto o non valido. Rieffettuare il login.")
             AUTH_TOKEN = None
             return None
         else:
-            print(f"Errore nella chiamata GET: {response.status_code} - {response.text}")
+            logger.error(f"Errore nella chiamata GET: {response.status_code} - {response.text}")
             return None
             
     except requests.exceptions.RequestException as e:
-        print(f"Errore di connessione nella chiamata GET: {e}")
+        logger.error(f"Errore di connessione nella chiamata GET: {e}")
         return None
 
 def api_post_request(data: Dict[str, Any], endpoint_override: Optional[str] = None) -> bool:
@@ -215,7 +220,7 @@ def api_post_request(data: Dict[str, Any], endpoint_override: Optional[str] = No
     global AUTH_TOKEN
     
     if not AUTH_TOKEN:
-        print("Token di autenticazione non disponibile. Effettuare prima il login.")
+        logger.warning("Token di autenticazione non disponibile. Effettuare prima il login.")
         return False
     
     endpoint = endpoint_override or API_CONFIG['post_endpoint']
@@ -226,58 +231,81 @@ def api_post_request(data: Dict[str, Any], endpoint_override: Optional[str] = No
         'Content-Type': 'application/json'
     }
     
+    body = {
+        "name": data["Titolo"],
+        "description": data["Descrizione"],
+        "amount": data["Importo"],
+        "type": data["Tipo"],
+        "date": data["Data"]
+    }
+    
     try:
-        print(f"Chiamata POST a: {url}")
-        response = requests.post(url, json=data, headers=headers, timeout=30)
+        logger.info(f"Chiamata POST a: {url}")
+        response = requests.post(url, json=body, headers=headers, timeout=30)
         
         if response.status_code in [200, 201]:
-            print("Chiamata POST completata con successo")
+            logger.info("Chiamata POST completata con successo")
             return True
         elif response.status_code == 401:
-            print("Token scaduto o non valido. Rieffettuare il login.")
+            logger.warning("Token scaduto o non valido. Rieffettuare il login.")
             AUTH_TOKEN = None
             return False
         else:
-            print(f"Errore nella chiamata POST: {response.status_code} - {response.text}")
+            logger.error(f"Errore nella chiamata POST: {response.status_code} - {response.text}")
             return False
             
     except requests.exceptions.RequestException as e:
-        print(f"Errore di connessione nella chiamata POST: {e}")
+        logger.error(f"Errore di connessione nella chiamata POST: {e}")
         return False
 
 def execute_api_workflow(json_data: Dict[str, Any]) -> None:
     """Esegue il workflow completo: login, GET, POST"""
-    print("\n=== Inizio workflow API ===")
+    logger.info("=== Inizio workflow API ===")
     
     # 1. Login
     if not login_api():
-        print("Impossibile effettuare il login. Workflow interrotto.")
+        logger.error("Impossibile effettuare il login. Workflow interrotto.")
         return
     
     # 2. Chiamata GET (opzionale - per verificare dati esistenti)
-    print("\n--- Chiamata GET ---")
-    existing_data = api_get_request()
-    if existing_data:
-        print(f"Dati esistenti trovati: {len(existing_data)} record")
-    
+    logger.info("\n--- Chiamata GET ---")
+    types_response = api_get_request()
+    type_data = types_response.get("data") if types_response else None
+    if type_data:
+        logger.info(f"Dati esistenti trovati: {len(type_data)} record")
+        
+    # Prima di effettuare la POST, modifica il tipo spesa da stringa ad _id
+    for item in json_data.get("transactions", []):
+        tipo_spesa = item.get("Tipo")
+        if tipo_spesa and type_data:
+            tipo_record = next((t for t in type_data if t.get("name") == tipo_spesa), None)
+            if tipo_record:
+                item["Tipo"] = tipo_record.get("_id")
+
     # 3. Chiamata POST con i dati del JSON
-    print("\n--- Chiamata POST ---")
-    if api_post_request(json_data):
-        print("Dati inviati con successo!")
-    else:
-        print("Errore nell'invio dei dati")
-    
-    print("=== Fine workflow API ===\n")
+    logger.info("\n--- Chiamata POST ---")
+    try: 
+        transactional_data = json_data.get("transactions", [])
+        for item in transactional_data:
+            logger.debug(item)
+            if api_post_request(item):
+                logger.info("Dati inviati con successo!")
+            else:
+                logger.error("Errore nell'invio dei dati")
+    except Exception as e:
+        logger.error(f"Errore durante la preparazione dei dati per la POST: {e}")
+
+    logger.info("=== Fine workflow API ===\n")
 
 # open an excel file
 def open_excel_file(file_path: str) -> Optional[openpyxl.Workbook]:
     try:
         # data_only=True fa sì che vengano letti i valori calcolati invece delle formule
         workbook = openpyxl.load_workbook(file_path, data_only=True)
-        print("Excel file opened successfully.")
+        logger.info("Excel file opened successfully.")
         return workbook
     except Exception as e:
-        print(f"Error opening Excel file: {e}")
+        logger.error(f"Error opening Excel file: {e}")
         return None
     
 def setup() -> None:
@@ -291,7 +319,7 @@ def setup() -> None:
         # Leggere il percorso del file
         if 'DEFAULT' in config and 'file_path' in config['DEFAULT']:
             DEFAULT_FILE_PATH = config['DEFAULT']['file_path']
-            print(f"Using file path from config: {DEFAULT_FILE_PATH}")
+            logger.info(f"Using file path from config: {DEFAULT_FILE_PATH}")
         
         # Leggere la configurazione API
         if 'API' in config:
@@ -300,15 +328,15 @@ def setup() -> None:
                 'login_endpoint': config['API'].get('login_endpoint', ''),
                 'get_endpoint': config['API'].get('get_endpoint', ''),
                 'post_endpoint': config['API'].get('post_endpoint', ''),
-                'username': config['API'].get('username', ''),
+                'email': config['API'].get('email', ''),
                 'password': config['API'].get('password', '')
             }
-            print(f"API Config loaded: {API_CONFIG['base_url']}")
+            logger.info(f"API Config loaded: {API_CONFIG['base_url']}")
         else:
-            print("Sezione [API] non trovata nel file di configurazione")
+            logger.warning("Sezione [API] non trovata nel file di configurazione")
     else:
-        print("File di configurazione non trovato")
-        
+        logger.error("File di configurazione non trovato")
+
 if __name__ == "__main__":
     setup()
     main()
