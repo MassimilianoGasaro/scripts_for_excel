@@ -161,3 +161,4 @@ cython_debug/
 
 # file da caricare
 file_da_caricare/
+file_da_caricare.ini

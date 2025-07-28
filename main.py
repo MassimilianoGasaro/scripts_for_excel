@@ -15,6 +15,7 @@ logger = logging.getLogger(__name__)
 DEFAULT_FILE_PATH: str = "data.xlsx"
 API_CONFIG: Dict[str, str] = {}
 AUTH_TOKEN: Optional[str] = None
+MODIFY_EXCEL: bool = False
 
 def main() -> None:
     workbook = open_excel_file(DEFAULT_FILE_PATH)
@@ -110,6 +111,12 @@ def read_excel_data(sheet) -> List[Dict[str, Any]]:
         row += 1
     
     logger.info(f"Trovati {len(data)} record")
+    
+    if MODIFY_EXCEL:
+        # Modifica l'Excel se richiesto
+        data = modify_excel(data)
+        logger.info(f"Dati dopo la modifica: {len(data)} record")
+        
     return data
 
 def create_json_body(data: List[Dict[str, Any]]) -> Dict[str, Any]:
@@ -309,7 +316,7 @@ def open_excel_file(file_path: str) -> Optional[openpyxl.Workbook]:
         return None
     
 def setup() -> None:
-    global DEFAULT_FILE_PATH, API_CONFIG
+    global DEFAULT_FILE_PATH, API_CONFIG, MODIFY_EXCEL
     config_file_path = "file_da_caricare.ini"
     
     if os.path.exists(config_file_path):
@@ -317,8 +324,9 @@ def setup() -> None:
         config.read(config_file_path)
         
         # Leggere il percorso del file
-        if 'DEFAULT' in config and 'file_path' in config['DEFAULT']:
-            DEFAULT_FILE_PATH = config['DEFAULT']['file_path']
+        if 'EXCEL' in config and 'file_path' in config['EXCEL']:
+            DEFAULT_FILE_PATH = config['EXCEL']['file_path']
+            MODIFY_EXCEL = config['EXCEL'].getboolean('modify', False)
             logger.info(f"Using file path from config: {DEFAULT_FILE_PATH}")
         
         # Leggere la configurazione API
@@ -336,6 +344,20 @@ def setup() -> None:
             logger.warning("Sezione [API] non trovata nel file di configurazione")
     else:
         logger.error("File di configurazione non trovato")
+
+def modify_excel(data_input: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """Funzione per modificare l'Excel, se necessario"""
+    # Questa funzione può essere implementata per modificare il file Excel
+    # in base alle esigenze specifiche del workflow.
+    
+    # rimuovi gli oggetti che non sono necessari, come quelli che nel titolo o nella descrizione contengono "american express"
+    filtered_data = [
+        item for item in data_input
+        if "american express" not in item.get("Titolo", "").lower()
+        and "american express" not in item.get("Descrizione", "").lower()
+    ]
+    
+    return filtered_data
 
 if __name__ == "__main__":
     setup()
